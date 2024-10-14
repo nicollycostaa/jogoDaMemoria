@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧠 Jogo da Memória 🧠
 
-## Getting Started
+**Bem-vindo ao Jogo da Memória!** 🎉 Este é um divertido jogo onde você pode testar sua memória enquanto tenta encontrar pares de cartas iguais. Com um design bonito e intuitivo, é perfeito para todas as idades!
 
-First, run the development server:
+## 📦 Tecnologias Utilizadas
+- **Next.js**: Um poderoso framework React para construir aplicações web rápidas e escaláveis.
+- **CSS**: Para deixar tudo bonito e estiloso! 🌈
 
-```bash
+## 🎮 Como Jogar
+1. **Inicie o jogo** clicando no botão "Reiniciar Jogo".
+2. **Clique em duas cartas** para revelá-las. Se elas forem iguais, você encontrará um par! 🎊
+3. Continue até encontrar todos os pares! Boa sorte! 🍀
+
+## 🌟 Funcionalidades
+- **Contador de Movimentos**: Veja quantas jogadas você fez! 
+- **Reiniciar Jogo**: Comece uma nova partida a qualquer momento. 🔄
+- **Feedback Visual**: Cores e animações para melhorar sua experiência de jogo. 🎨
+
+## 🚀 Como Executar o Projeto
+Para executar este projeto em sua máquina local, siga estas etapas:
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/nicollycostaa/jogoDaMemoria.git
+Navegue até o diretório do projeto:
+bash
+Copiar código
+cd jogoDaMemoria
+Instale as dependências:
+bash
+Copiar código
+npm install
+Inicie o servidor de desenvolvimento:
+bash
+Copiar código
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Abra seu navegador e acesse http://localhost:3000 para jogar! 🕹️
+📸 Capturas de Tela
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🤝 Contribuições
+Sinta-se à vontade para contribuir! Se você tiver ideias para novas funcionalidades ou melhorias, abra uma issue ou envie um pull request. 💪
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+📬 Contato
+Se você tiver alguma dúvida, não hesite em me contactar:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Email: Nicolly65costa@hotmail.com
